@@ -3,7 +3,7 @@ import telebot
 import csv
 import os
 
-TOKEN = '7582565226:AAF33J0dSZzaP4jbcf7kw29iRJuBpGSJcHQ'
+TOKEN = '7871677177:AAGkyPEo1uGDPZANqLE7qPT6JfuID7oOvWQ'
 bot = telebot.TeleBot(TOKEN)
 
 user_states = {}
